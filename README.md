@@ -1,1 +1,2 @@
 # public
+# self_study
